@@ -1,0 +1,7 @@
+*.sqlite*
+# Ignore log files
+*.log
+# Ignore vendor directory
+/vendor/
+
+
